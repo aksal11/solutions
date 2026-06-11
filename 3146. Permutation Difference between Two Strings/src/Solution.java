@@ -1,6 +1,6 @@
 public class Solution {
 
-    static void main() {
+    public static void main() {
 
         String s = "abcde";
         String t = "edbac";
